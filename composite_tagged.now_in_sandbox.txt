@@ -1,0 +1,5 @@
+The composite_tagged.text.cpp file is superseded by:
+
+  https://svn.boost.org/trac/boost/browser/sandbox/variadic_templates/boost/composite_tagged.hpp
+  https://svn.boost.org/trac/boost/browser/sandbox/variadic_templates/libs/composite_tagged/sandbox/composite_tagged.leaf.test.cpp
+  

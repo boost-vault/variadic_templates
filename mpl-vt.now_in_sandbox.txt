@@ -1,0 +1,11 @@
+The mpl-vt.zip file which used to be at:
+
+  http://www.boostpro.com/vault/index.php?&directory=variadic_templates
+  
+has been removed because the following sandbox directory:
+
+  https://svn.boost.org/trac/boost/browser/sandbox/variadic_templates
+  
+which should be more complete.  A "slight" modification of the
+libs/mpl/test tests have been run and passsed, which I think justifies
+the "more complete" description.
